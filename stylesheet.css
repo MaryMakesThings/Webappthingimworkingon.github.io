@@ -3,10 +3,8 @@
 }
 
 .borders1 {
-  background-color: rgba(200, 100, 255, 10);
-  border-style: solid;
+  background: rgba(200, 0, 255, 10);
+  border: solid rgba(200, 100, 255, 100) 0.5vw;
   border-radius: 0.5vw;
-  border-color: rgba(200, 100, 255, 100);
-  border-width: 0.5vw;
-  margin-right: 200px;
+  margin-right: 30px;
 }
