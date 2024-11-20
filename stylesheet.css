@@ -3,5 +3,6 @@
 }
 
 .borders1 {
-  border-radius: 0.5vw
+  border-style: solid;
+  border-radius: 0.5vw;
 }
