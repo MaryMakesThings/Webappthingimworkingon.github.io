@@ -5,5 +5,6 @@
 .borders1 {
   border-style: solid;
   border-radius: 0.5vw;
-  border-color: rgba(200, 100, 255, 100)
+  border-color: rgba(200, 100, 255, 100);
+  border-width: 0.5vw;
 }
